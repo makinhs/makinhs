@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **agtech**
 
-- 🌱 I’m currently learning **more about micro services**
+- 🌱 I’m currently learning **more about nx and backend micro services**
 
 - 📝 I regularly write articles on [https://makinhs.medium.com/](https://makinhs.medium.com/)
 
