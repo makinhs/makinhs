@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tio.makin@gmail.com**
 
-- 📄 Know about my experiences [https://www.toptal.com/resume/marcos-henrique-da-silva](https://www.toptal.com/resume/marcos-henrique-da-silva)
+- 📄 Know about my experiences in my [LinkedIn profile](https://www.linkedin.com/in/marcos-silva-6277b266)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makinhs" alt="makinhs" /></a> </p>
 
