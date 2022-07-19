@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 
-- 🔭 I’m currently working on **agtech**
+- 🔭 I’m currently working with **privacy protection**
 
 - 🌱 I’m currently learning **more about nx and backend micro services**
 
