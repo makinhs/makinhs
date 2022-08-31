@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- GraphQL and DataLoader [https://makinhs.medium.com/fieldresolver-and-data-loader-made-easy-with-nestjs-part-5-of-how-to-build-a-graphql-mongodb-e0d3d6f7eeec]
+- GraphQL and DataLoader [link](https://makinhs.medium.com/fieldresolver-and-data-loader-made-easy-with-nestjs-part-5-of-how-to-build-a-graphql-mongodb-e0d3d6f7eeec)
 - How to setup monorepos for React with Lerna. [Link](https://javascript.plainenglish.io/how-to-setup-a-monorepo-with-react-and-lerna-with-typescript-5e1be0345a7c)
 - How to work with GraphQL in NestJS. [Link](https://javascript.plainenglish.io/graphql-backend-in-nodejs-made-easy-with-nestjs-1489be18b994)
 - How to start to work with Kafka in NestJS. [Link](https://javascript.plainenglish.io/a-beginners-introduction-to-kafka-with-typescript-using-nestjs-7c92fe78f638)
