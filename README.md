@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 
-- 🔭 I’m currently working with **privacy protection**
+- 🔭 I’m currently working with a **Product and Design** agency
 
-- 🌱 I’m currently learning **more about nx and backend micro services**
+- 🌱 I’m currently learning **more about 3d frontend web pages**
 
 - 📝 I regularly write articles on [https://makinhs.medium.com/](https://makinhs.medium.com/)
 
@@ -11,6 +11,8 @@
 - 📫 How to reach me **tio.makin@gmail.com**
 
 - 📄 Know about my experiences in my [LinkedIn profile](https://www.linkedin.com/in/marcos-silva-6277b266)
+
+- We are hiring at Plux Agency. Reach me out on my [LinkedIn profile](https://www.linkedin.com/in/marcos-silva-6277b266) and we can talk more about it ;)
 
 
 ### Blogs posts
