@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 
-- 🔭 I’m currently working with a **Product and Design** agency
+- 🔭 I’m currently working with a **Product and Design** at [Plux Agency](http://pluxagency.com)
 
 - 🌱 I’m currently learning **more about 3d frontend web pages**
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences in my [LinkedIn profile](https://www.linkedin.com/in/marcos-silva-6277b266)
 
-- We are hiring at Plux Agency. Reach me out on my [LinkedIn profile](https://www.linkedin.com/in/marcos-silva-6277b266) and we can talk more about it ;)
+- We are hiring at [Plux Agency](http://pluxagency.com). Reach me out on my [LinkedIn profile](https://www.linkedin.com/in/marcos-silva-6277b266) and we can talk more about it ;)
 
 
 ### Blogs posts
