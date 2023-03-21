@@ -12,7 +12,6 @@
 
 - 📄 Know about my experiences in my [LinkedIn profile](https://www.linkedin.com/in/marcos-silva-6277b266)
 
-- We are hiring at [Plux Agency](http://pluxagency.com). Reach me out on my [LinkedIn profile](https://www.linkedin.com/in/marcos-silva-6277b266) and we can talk more about it ;)
 
 
 ### Blogs posts
