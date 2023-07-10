@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 
-- 🌱 I’m currently learning **more about 3d frontend web pages**
+- 🌱 I’m currently learning **more about Python**
 
 - 📝 I regularly write articles on [https://makinhs.medium.com/](https://makinhs.medium.com/)
 
