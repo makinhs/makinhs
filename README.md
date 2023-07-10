@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 
-- 🔭 I’m currently working with a **Product and Design** company at [Plux Agency](http://pluxagency.com)
-
 - 🌱 I’m currently learning **more about 3d frontend web pages**
 
 - 📝 I regularly write articles on [https://makinhs.medium.com/](https://makinhs.medium.com/)
